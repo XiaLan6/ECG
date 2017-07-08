@@ -15,6 +15,8 @@
 //      --|RST        XOUT|-
 //        |               |
 //        |           P5.1|-->LED
+
+//  chag a line
 //
 //  M. Buccini
 //  Texas Instruments Inc.
